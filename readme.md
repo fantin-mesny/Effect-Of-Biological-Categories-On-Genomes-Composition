@@ -82,4 +82,5 @@ NB: Example files were randomly generated and are not biologically relevant. Thu
 - ```--i```: CSV dataframe containing gene counts. One genome per row (names in column *genome*), one gene family per column. One column must be called *lifestyle*, and should contain the categories of interest. See ```example/data.csv```
 - ```--t```: Phylogenetic tree (Newick format), with leaf name matching the names in column *genome* of the input dataframe (```--i```)
 - ```--o```: Output/working directory
-- ```--colors``` (facultative): To specify colors to associate to lifestyles. ```--colors lifestyle1:red,lifestyle2:blue,lifestyle3:#00FF00```
+- ```--colors``` (facultative): To specify colors to associate to lifestyles. 
+    For instance: ```--colors lifestyle1:red,lifestyle2:blue,lifestyle3:#00FF00```

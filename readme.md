@@ -4,9 +4,9 @@ This method was developed and optimized by Fantin Mesny and Nathan Vannier (Max 
 
 ## Used in
 
-Hage, Hayat, Shingo Miyauchi, Máté Virágh, Elodie Drula, Byoungnam Min, Delphine Chaduli, David Navarro et al. "Gene family expansions and transcriptome signatures uncover fungal adaptations to wood decay." *Environmental Microbiology* (2021).
+Hage et al. "Gene family expansions and transcriptome signatures uncover fungal adaptations to wood decay." *Environmental Microbiology* (2021).
 
-Miyauchi, Shingo, Enikő Kiss, Alan Kuo, Elodie Drula, Annegret Kohler, Marisol Sánchez-García, Emmanuelle Morin et al. "Large-scale genome sequencing of mycorrhizal fungi provides insights into the early evolution of symbiotic traits." *Nature communications* 11, no. 1 (2020): 1-17.
+Miyauchi et al. "Large-scale genome sequencing of mycorrhizal fungi provides insights into the early evolution of symbiotic traits." *Nature communications* 11, no. 1 (2020): 1-17.
 
 
 ## About

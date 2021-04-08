@@ -2,6 +2,13 @@
 
 This method was developed and optimized by Fantin Mesny and Nathan Vannier (Max Planck Institute For Plant Breeding Research - Cologne, Germany).
 
+## Used in
+
+Hage, Hayat, Shingo Miyauchi, Máté Virágh, Elodie Drula, Byoungnam Min, Delphine Chaduli, David Navarro et al. "Gene family expansions and transcriptome signatures uncover fungal adaptations to wood decay." *Environmental Microbiology* (2021).
+
+Miyauchi, Shingo, Enikő Kiss, Alan Kuo, Elodie Drula, Annegret Kohler, Marisol Sánchez-García, Emmanuelle Morin et al. "Large-scale genome sequencing of mycorrhizal fungi provides insights into the early evolution of symbiotic traits." *Nature communications* 11, no. 1 (2020): 1-17.
+
+
 ## About
 
 A common difficulty in comparative genomics is to correct for phylogenetic signals that are often confounding factors when trying to detect genomic markers of a biological process.

@@ -4,6 +4,9 @@ This method was developed and optimized by Fantin Mesny and Nathan Vannier (Max 
 
 ## Used in
 
+Mesny et al. "Genetic determinants of endophytism in the *Arabidopsis* root mycobiome. *bioRxiv* (2021).
+https://doi.org/10.1101/2021.04.28.441743
+
 Hage et al. "Gene family expansions and transcriptome signatures uncover fungal adaptations to wood decay." *Environmental Microbiology* (2021).
 
 Miyauchi et al. "Large-scale genome sequencing of mycorrhizal fungi provides insights into the early evolution of symbiotic traits." *Nature communications* 11, no. 1 (2020): 1-17.
